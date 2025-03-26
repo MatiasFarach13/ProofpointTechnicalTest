@@ -25,10 +25,14 @@ I specialize in backend development and aim to grow professionally in this field
 In the long term, I aspire to advance in my career and eventually lead software projects, combining technical knowledge with management skills. I am passionate about software development and committed to my professional growth, always eager to learn new technologies and methodologies to continuously add value to the projects I work on.
 
 
+
+
+
 The Library's Lost Books
+
 I leave attached the compressed where there is a java maven project where I solve the problem of "The Library's Lost Books", with the help of AI, I have created a CSV file of 211 book records with forced errors and a header line (it is inside the project), where each entry has a title, author name and publication date separated by a comma "," . If you want, you can put your own csv file in the program, all you have to do is paste it into the "resources" folder of the project and change the file name in the route of the static variable "FILE_PATH" of the main program.
 
-Word Frequency Analysis
 
+Word Frequency Analysis
 
 I've also attached the Java Maven project for the "Word Frequency Analysis" exercise, using the same method as the previous exercise. If you'd like, you can modify the project with your own text file, as explained above.
